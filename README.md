@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hamjambo ulimwengu 👋
 
-💬 How you doin?
+💬 Hi there, How you doin?
 
 <!--
 **robocrax/robocrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
