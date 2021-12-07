@@ -1,6 +1,6 @@
 ### Hamjambo ulimwengu 👋
 
-💬 Hi there, How you doin?
+💬 Hi there, I write spaghetti code 🍝
 
 <!--
 **robocrax/robocrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
