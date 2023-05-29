@@ -1,6 +1,6 @@
-### Hamjambo ulimwengu 👋
+### [Hamjambo ulimwengu 👋](https://www.google.com/search?q=translate+hamjambo+ulimwengu)
 
-💬 Hi there, I write spaghetti code 🍝
+💬 Hi there, I write [spaghetti code 🍝](https://en.wikipedia.org/wiki/Spaghetti_code)
 
 <!--
 **robocrax/robocrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
